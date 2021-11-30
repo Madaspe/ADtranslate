@@ -1,0 +1,6 @@
+name: ADtranslate
+version: '${project.version}'
+main: adavlatov.adtranslate.ADtranslate
+authors: [ ADavlatov ]
+description: Plugin for translating commands from Russian keyboard layout to English
+website: https://vk.com/try3hard
