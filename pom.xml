@@ -16,7 +16,7 @@
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>https://vk.com/try3hard</url>
+    <url>https://vk.com/a_davlatov</url>
 
     <build>
         <plugins>
